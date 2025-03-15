@@ -1,0 +1,1 @@
+const deal=require('../model/DealSchema');

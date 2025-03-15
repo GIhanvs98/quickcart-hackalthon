@@ -1,0 +1,1 @@
+const paymentMethod=require('../model/PaymentMethodSchema');

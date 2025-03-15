@@ -1,0 +1,1 @@
+const bookMark=require('../model/BookmarkSchema');
